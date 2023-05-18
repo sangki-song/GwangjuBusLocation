@@ -1,0 +1,1545 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "routeid": "KJB1",
+            "routeno": "순환01A(계수초->시청->조선대)"
+          },
+          {
+            "routeid": "KJB3",
+            "routeno": "매월06"
+          },
+          {
+            "routeid": "KJB4",
+            "routeno": "진월07"
+          },
+          {
+            "routeid": "KJB5",
+            "routeno": "첨단09"
+          },
+          {
+            "routeid": "KJB6",
+            "routeno": "지원15"
+          },
+          {
+            "routeid": "KJB7",
+            "routeno": "매월16"
+          },
+          {
+            "routeid": "KJB8",
+            "routeno": "진월17"
+          },
+          {
+            "routeid": "KJB9",
+            "routeno": "문흥18"
+          },
+          {
+            "routeid": "KJB10",
+            "routeno": "송정19"
+          },
+          {
+            "routeid": "KJB11",
+            "routeno": "첨단20"
+          },
+          {
+            "routeid": "KJB12",
+            "routeno": "지원25"
+          },
+          {
+            "routeid": "KJB13",
+            "routeno": "매월26"
+          },
+          {
+            "routeid": "KJB14",
+            "routeno": "봉선27"
+          },
+          {
+            "routeid": "KJB15",
+            "routeno": "일곡28"
+          },
+          {
+            "routeid": "KJB16",
+            "routeno": "송정29"
+          },
+          {
+            "routeid": "KJB17",
+            "routeno": "첨단30"
+          },
+          {
+            "routeid": "KJB18",
+            "routeno": "운림35"
+          },
+          {
+            "routeid": "KJB19",
+            "routeno": "봉선37"
+          },
+          {
+            "routeid": "KJB20",
+            "routeno": "일곡38"
+          },
+          {
+            "routeid": "KJB23",
+            "routeno": "지원45"
+          },
+          {
+            "routeid": "KJB24",
+            "routeno": "송암47"
+          },
+          {
+            "routeid": "KJB25",
+            "routeno": "운림50"
+          },
+          {
+            "routeid": "KJB26",
+            "routeno": "운림51"
+          },
+          {
+            "routeid": "KJB27",
+            "routeno": "지원52"
+          },
+          {
+            "routeid": "KJB29",
+            "routeno": "운림54"
+          },
+          {
+            "routeid": "KJB30",
+            "routeno": "금남55"
+          },
+          {
+            "routeid": "KJB31",
+            "routeno": 419
+          },
+          {
+            "routeid": "KJB32",
+            "routeno": "금남57"
+          },
+          {
+            "routeid": "KJB33",
+            "routeno": "금남58"
+          },
+          {
+            "routeid": "KJB34",
+            "routeno": "금남59"
+          },
+          {
+            "routeid": "KJB35",
+            "routeno": "매월61"
+          },
+          {
+            "routeid": "KJB36",
+            "routeno": "상무62(시청경유상무역행)"
+          },
+          {
+            "routeid": "KJB37",
+            "routeno": "상무63"
+          },
+          {
+            "routeid": "KJB38",
+            "routeno": "상무64"
+          },
+          {
+            "routeid": "KJB39",
+            "routeno": "유덕65"
+          },
+          {
+            "routeid": "KJB40",
+            "routeno": "대촌69"
+          },
+          {
+            "routeid": "KJB41",
+            "routeno": "대촌70"
+          },
+          {
+            "routeid": "KJB42",
+            "routeno": "대촌71"
+          },
+          {
+            "routeid": "KJB43",
+            "routeno": "송암72"
+          },
+          {
+            "routeid": "KJB44",
+            "routeno": "송암73"
+          },
+          {
+            "routeid": "KJB47",
+            "routeno": "봉선76"
+          },
+          {
+            "routeid": "KJB48",
+            "routeno": "진월77"
+          },
+          {
+            "routeid": "KJB49",
+            "routeno": "진월78"
+          },
+          {
+            "routeid": "KJB50",
+            "routeno": "진월79"
+          },
+          {
+            "routeid": "KJB51",
+            "routeno": "문흥80"
+          },
+          {
+            "routeid": "KJB52",
+            "routeno": "두암81(각화초교.장등마을)"
+          },
+          {
+            "routeid": "KJB54",
+            "routeno": "용봉83"
+          },
+          {
+            "routeid": "KJB55",
+            "routeno": "용전84"
+          },
+          {
+            "routeid": "KJB56",
+            "routeno": "용전85"
+          },
+          {
+            "routeid": "KJB57",
+            "routeno": "용전86"
+          },
+          {
+            "routeid": "KJB58",
+            "routeno": "석곡87"
+          },
+          {
+            "routeid": "KJB59",
+            "routeno": "임곡89"
+          },
+          {
+            "routeid": "KJB60",
+            "routeno": "임곡90"
+          },
+          {
+            "routeid": "KJB61",
+            "routeno": "임곡91"
+          },
+          {
+            "routeid": "KJB62",
+            "routeno": "첨단92"
+          },
+          {
+            "routeid": "KJB64",
+            "routeno": "첨단94"
+          },
+          {
+            "routeid": "KJB65",
+            "routeno": "첨단95"
+          },
+          {
+            "routeid": "KJB66",
+            "routeno": "송정96"
+          },
+          {
+            "routeid": "KJB68",
+            "routeno": "송정98"
+          },
+          {
+            "routeid": "KJB69",
+            "routeno": "송정99"
+          },
+          {
+            "routeid": "KJB71",
+            "routeno": "228(구151.화순사평)"
+          },
+          {
+            "routeid": "KJB72",
+            "routeno": "지원152(능주역)"
+          },
+          {
+            "routeid": "KJB73",
+            "routeno": "대촌170"
+          },
+          {
+            "routeid": "KJB74",
+            "routeno": "진월177"
+          },
+          {
+            "routeid": "KJB76",
+            "routeno": "두암181"
+          },
+          {
+            "routeid": "KJB77",
+            "routeno": "용전184"
+          },
+          {
+            "routeid": "KJB78",
+            "routeno": "충효187"
+          },
+          {
+            "routeid": "KJB79",
+            "routeno": "첨단192"
+          },
+          {
+            "routeid": "KJB80",
+            "routeno": "첨단193"
+          },
+          {
+            "routeid": "KJB81",
+            "routeno": "진곡196"
+          },
+          {
+            "routeid": "KJB82",
+            "routeno": "송정197"
+          },
+          {
+            "routeid": "KJB83",
+            "routeno": "대촌270"
+          },
+          {
+            "routeid": "KJB84",
+            "routeno": "임곡290"
+          },
+          {
+            "routeid": "KJB85",
+            "routeno": "송정296"
+          },
+          {
+            "routeid": "KJB86",
+            "routeno": 518
+          },
+          {
+            "routeid": "KJB87",
+            "routeno": 1187
+          },
+          {
+            "routeid": "KJB88",
+            "routeno": "금호36"
+          },
+          {
+            "routeid": "KJB90",
+            "routeno": "문흥39"
+          },
+          {
+            "routeid": "KJB91",
+            "routeno": "송암74"
+          },
+          {
+            "routeid": "KJB92",
+            "routeno": "첨단40"
+          },
+          {
+            "routeid": "KJB93",
+            "routeno": "송정97"
+          },
+          {
+            "routeid": "KJB94",
+            "routeno": "송정93"
+          },
+          {
+            "routeid": "KJB95",
+            "routeno": "금호46"
+          },
+          {
+            "routeid": "KJB96",
+            "routeno": "일곡10"
+          },
+          {
+            "routeid": "KJB97",
+            "routeno": "1187-1"
+          },
+          {
+            "routeid": "KJB98",
+            "routeno": "수완49"
+          },
+          {
+            "routeid": "KJB100",
+            "routeno": "진월75"
+          },
+          {
+            "routeid": "KJB101",
+            "routeno": "송암31"
+          },
+          {
+            "routeid": "KJB102",
+            "routeno": "수완12"
+          },
+          {
+            "routeid": "KJB103",
+            "routeno": "송정100"
+          },
+          {
+            "routeid": "KJB104",
+            "routeno": "선운101(송산유원지)"
+          },
+          {
+            "routeid": "KJB106",
+            "routeno": "두암81(무등파크.장등마을)"
+          },
+          {
+            "routeid": "KJB108",
+            "routeno": "송정33"
+          },
+          {
+            "routeid": "KJB109",
+            "routeno": "좌석02"
+          },
+          {
+            "routeid": "KJB111",
+            "routeno": "송암68"
+          },
+          {
+            "routeid": "KJB112",
+            "routeno": "순환01B(계수초->운천저수지->조선대)"
+          },
+          {
+            "routeid": "KJB114",
+            "routeno": "수완03"
+          },
+          {
+            "routeid": "KJB115",
+            "routeno": "선운14"
+          },
+          {
+            "routeid": "KJB116",
+            "routeno": "첨단22"
+          },
+          {
+            "routeid": "KJB117",
+            "routeno": "첨단23"
+          },
+          {
+            "routeid": "KJB118",
+            "routeno": "문흥53"
+          },
+          {
+            "routeid": "KJB119",
+            "routeno": "지원56"
+          },
+          {
+            "routeid": "KJB120",
+            "routeno": "양산60"
+          },
+          {
+            "routeid": "KJB121",
+            "routeno": "충효188"
+          },
+          {
+            "routeid": "KJB122",
+            "routeno": "228(구151.화순전대병원)"
+          },
+          {
+            "routeid": "KJB123",
+            "routeno": "지원152(도웅리)"
+          },
+          {
+            "routeid": "KJB125",
+            "routeno": "선운101(광주글로벌모터스)"
+          },
+          {
+            "routeid": "KJB127",
+            "routeno": "상무62(상무역경유시청행)"
+          },
+          {
+            "routeid": "KJB129",
+            "routeno": "두암81(각화초교.장등동)"
+          },
+          {
+            "routeid": "KJB130",
+            "routeno": "두암81(무등파크.장등동)"
+          },
+          {
+            "routeid": "KJB195",
+            "routeno": "마을720"
+          },
+          {
+            "routeid": "KJB201",
+            "routeno": "마을760"
+          },
+          {
+            "routeid": "KJB202",
+            "routeno": "마을701(23.05.31까지운행중단)"
+          },
+          {
+            "routeid": "KJB203",
+            "routeno": "마을700"
+          },
+          {
+            "routeid": "KJB205",
+            "routeno": "마을713(23.09.14까지운행중단)"
+          },
+          {
+            "routeid": "KJB206",
+            "routeno": "마을720-1(23.06.10까지운행중단)"
+          },
+          {
+            "routeid": "KJB207",
+            "routeno": "마을763(24.05.02까지운행중단)"
+          },
+          {
+            "routeid": "KJB208",
+            "routeno": "마을715(영어마을경유)"
+          },
+          {
+            "routeid": "KJB209",
+            "routeno": "마을715"
+          },
+          {
+            "routeid": "KJB210",
+            "routeno": "마을777(평일운행)"
+          },
+          {
+            "routeid": "KJB211",
+            "routeno": "마을777(주말운행)"
+          },
+          {
+            "routeid": "KJB212",
+            "routeno": "마을714(24.04.18까지운행중단)"
+          },
+          {
+            "routeid": "KJB213",
+            "routeno": "마을788"
+          },
+          {
+            "routeid": "KJB214",
+            "routeno": "마을799(23.08.11까지운행중단)"
+          },
+          {
+            "routeid": "KJB501",
+            "routeno": "나주600"
+          },
+          {
+            "routeid": "KJB502",
+            "routeno": "나주600"
+          },
+          {
+            "routeid": "KJB503",
+            "routeno": "나주600"
+          },
+          {
+            "routeid": "KJB504",
+            "routeno": "나주600"
+          },
+          {
+            "routeid": "KJB505",
+            "routeno": "나주600"
+          },
+          {
+            "routeid": "KJB506",
+            "routeno": "나주600"
+          },
+          {
+            "routeid": "KJB507",
+            "routeno": "나주600"
+          },
+          {
+            "routeid": "KJB508",
+            "routeno": "나주600"
+          },
+          {
+            "routeid": "KJB509",
+            "routeno": "나주601"
+          },
+          {
+            "routeid": "KJB510",
+            "routeno": "나주601"
+          },
+          {
+            "routeid": "KJB511",
+            "routeno": "나주601"
+          },
+          {
+            "routeid": "KJB513",
+            "routeno": "나주601"
+          },
+          {
+            "routeid": "KJB514",
+            "routeno": "나주601"
+          },
+          {
+            "routeid": "KJB515",
+            "routeno": "나주601"
+          },
+          {
+            "routeid": "KJB516",
+            "routeno": "나주601"
+          },
+          {
+            "routeid": "KJB517",
+            "routeno": "나주601"
+          },
+          {
+            "routeid": "KJB518",
+            "routeno": "나주602"
+          },
+          {
+            "routeid": "KJB520",
+            "routeno": "나주602"
+          },
+          {
+            "routeid": "KJB522",
+            "routeno": "나주602"
+          },
+          {
+            "routeid": "KJB523",
+            "routeno": "나주603"
+          },
+          {
+            "routeid": "KJB525",
+            "routeno": "나주603"
+          },
+          {
+            "routeid": "KJB526",
+            "routeno": "나주601"
+          },
+          {
+            "routeid": "KJB527",
+            "routeno": "나주601"
+          },
+          {
+            "routeid": "KJB530",
+            "routeno": "나주600"
+          },
+          {
+            "routeid": "KJB541",
+            "routeno": "나주1160"
+          },
+          {
+            "routeid": "KJB543",
+            "routeno": "나주160"
+          },
+          {
+            "routeid": "KJB544",
+            "routeno": "나주160"
+          },
+          {
+            "routeid": "KJB547",
+            "routeno": "나주406"
+          },
+          {
+            "routeid": "KJB553",
+            "routeno": "나주999"
+          },
+          {
+            "routeid": "KJB554",
+            "routeno": "나주999"
+          },
+          {
+            "routeid": "KJB555",
+            "routeno": "나주999"
+          },
+          {
+            "routeid": "KJB556",
+            "routeno": "나주999"
+          },
+          {
+            "routeid": "KJB557",
+            "routeno": "나주999-1"
+          },
+          {
+            "routeid": "KJB558",
+            "routeno": "나주160"
+          },
+          {
+            "routeid": "KJB559",
+            "routeno": "나주160"
+          },
+          {
+            "routeid": "KJB600",
+            "routeno": "화순318-1"
+          },
+          {
+            "routeid": "KJB601",
+            "routeno": "화순318-1"
+          },
+          {
+            "routeid": "KJB602",
+            "routeno": "화순318-1"
+          },
+          {
+            "routeid": "KJB606",
+            "routeno": "화순216"
+          },
+          {
+            "routeid": "KJB609",
+            "routeno": "화순200-1"
+          },
+          {
+            "routeid": "KJB615",
+            "routeno": "화순216"
+          },
+          {
+            "routeid": "KJB618",
+            "routeno": "화순200-1"
+          },
+          {
+            "routeid": "KJB619",
+            "routeno": "화순1111"
+          },
+          {
+            "routeid": "KJB699",
+            "routeno": "담양2-1"
+          },
+          {
+            "routeid": "KJB700",
+            "routeno": "담양2-4"
+          },
+          {
+            "routeid": "KJB701",
+            "routeno": "담양4-8"
+          },
+          {
+            "routeid": "KJB702",
+            "routeno": "담양5-1"
+          },
+          {
+            "routeid": "KJB703",
+            "routeno": "담양5-5"
+          },
+          {
+            "routeid": "KJB704",
+            "routeno": "담양2-1"
+          },
+          {
+            "routeid": "KJB705",
+            "routeno": "담양2-3"
+          },
+          {
+            "routeid": "KJB706",
+            "routeno": "담양2-4"
+          },
+          {
+            "routeid": "KJB707",
+            "routeno": "담양2-4"
+          },
+          {
+            "routeid": "KJB708",
+            "routeno": "담양2-3"
+          },
+          {
+            "routeid": "KJB709",
+            "routeno": "담양2-4"
+          },
+          {
+            "routeid": "KJB710",
+            "routeno": "담양2-1"
+          },
+          {
+            "routeid": "KJB711",
+            "routeno": "담양2-2"
+          },
+          {
+            "routeid": "KJB712",
+            "routeno": "담양2-1"
+          },
+          {
+            "routeid": "KJB713",
+            "routeno": "담양2-5"
+          },
+          {
+            "routeid": "KJB714",
+            "routeno": "담양3-1"
+          },
+          {
+            "routeid": "KJB715",
+            "routeno": "담양3-2"
+          },
+          {
+            "routeid": "KJB716",
+            "routeno": "담양3-2"
+          },
+          {
+            "routeid": "KJB717",
+            "routeno": "담양3-1"
+          },
+          {
+            "routeid": "KJB718",
+            "routeno": "담양7-2"
+          },
+          {
+            "routeid": "KJB720",
+            "routeno": "담양7-1"
+          },
+          {
+            "routeid": "KJB721",
+            "routeno": "담양7-2"
+          },
+          {
+            "routeid": "KJB722",
+            "routeno": "담양1-2"
+          },
+          {
+            "routeid": "KJB723",
+            "routeno": "담양1-1"
+          },
+          {
+            "routeid": "KJB724",
+            "routeno": "담양6-1"
+          },
+          {
+            "routeid": "KJB725",
+            "routeno": "담양6-1"
+          },
+          {
+            "routeid": "KJB727",
+            "routeno": "담양6-2"
+          },
+          {
+            "routeid": "KJB728",
+            "routeno": "담양8-1"
+          },
+          {
+            "routeid": "KJB730",
+            "routeno": "담양5-4"
+          },
+          {
+            "routeid": "KJB731",
+            "routeno": "담양5-2"
+          },
+          {
+            "routeid": "KJB732",
+            "routeno": "담양5-4"
+          },
+          {
+            "routeid": "KJB733",
+            "routeno": "담양5-2"
+          },
+          {
+            "routeid": "KJB734",
+            "routeno": "담양4-1"
+          },
+          {
+            "routeid": "KJB736",
+            "routeno": "담양4-2"
+          },
+          {
+            "routeid": "KJB752",
+            "routeno": "담양311-1"
+          },
+          {
+            "routeid": "KJB771",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB772",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB773",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB774",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB775",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB776",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB777",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB778",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB779",
+            "routeno": "화순200"
+          },
+          {
+            "routeid": "KJB738",
+            "routeno": "담양4-2"
+          },
+          {
+            "routeid": "KJB739",
+            "routeno": "담양4-3"
+          },
+          {
+            "routeid": "KJB740",
+            "routeno": "담양311"
+          },
+          {
+            "routeid": "KJB741",
+            "routeno": "담양311-1"
+          },
+          {
+            "routeid": "KJB742",
+            "routeno": "담양322"
+          },
+          {
+            "routeid": "KJB743",
+            "routeno": "담양322-1"
+          },
+          {
+            "routeid": "KJB744",
+            "routeno": "담양3-1"
+          },
+          {
+            "routeid": "KJB745",
+            "routeno": "담양3-1"
+          },
+          {
+            "routeid": "KJB746",
+            "routeno": "담양8-1"
+          },
+          {
+            "routeid": "KJB749",
+            "routeno": "담양5-5"
+          },
+          {
+            "routeid": "KJB751",
+            "routeno": "담양311"
+          },
+          {
+            "routeid": "KJB780",
+            "routeno": "화순200"
+          },
+          {
+            "routeid": "KJB781",
+            "routeno": "화순318"
+          },
+          {
+            "routeid": "KJB782",
+            "routeno": "화순318"
+          },
+          {
+            "routeid": "KJB783",
+            "routeno": "화순318-1"
+          },
+          {
+            "routeid": "KJB784",
+            "routeno": "화순318-1"
+          },
+          {
+            "routeid": "KJB785",
+            "routeno": "화순216"
+          },
+          {
+            "routeid": "KJB786",
+            "routeno": "화순216"
+          },
+          {
+            "routeid": "KJB837",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB838",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB839",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB840",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB841",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB842",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB843",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB844",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB845",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB846",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB847",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB848",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB849",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB850",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB851",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB852",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB853",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB854",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB855",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB856",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB857",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB858",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB859",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB860",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB861",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB862",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB863",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB864",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB865",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB866",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB867",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB868",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB869",
+            "routeno": "화순217"
+          },
+          {
+            "routeid": "KJB872",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB873",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB874",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB875",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB876",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB877",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB878",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB879",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB880",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB881",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB882",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB883",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB884",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB887",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB888",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB889",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB890",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB891",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB892",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB893",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB894",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB895",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB896",
+            "routeno": "화순217-1"
+          },
+          {
+            "routeid": "KJB899",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB900",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB901",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB902",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB903",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB904",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB905",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB906",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB907",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB908",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB909",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB910",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB911",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB912",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB913",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB914",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB915",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB916",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB917",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB918",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB919",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB920",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB921",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB922",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB923",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB924",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB925",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB926",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB927",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB928",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB929",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB930",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB931",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB932",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB933",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB934",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB935",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB936",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB937",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB938",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB939",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB940",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB941",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB942",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB943",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB944",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB945",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB946",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB947",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB948",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB949",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB950",
+            "routeno": "화순218"
+          },
+          {
+            "routeid": "KJB951",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB952",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB953",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB954",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB955",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB956",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB957",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB958",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB959",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB960",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB961",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB962",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB963",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB964",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB965",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB966",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB967",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB969",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB970",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB971",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB972",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB973",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB974",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB975",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB976",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB977",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB978",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB979",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB980",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB981",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB982",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB983",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB984",
+            "routeno": "화순218-1"
+          },
+          {
+            "routeid": "KJB986",
+            "routeno": "화순200"
+          },
+          {
+            "routeid": "KJB988",
+            "routeno": "화순200"
+          },
+          {
+            "routeid": "KJB989",
+            "routeno": "화순200"
+          },
+          {
+            "routeid": "KJB990",
+            "routeno": "화순200"
+          },
+          {
+            "routeid": "KJB991",
+            "routeno": "화순200"
+          },
+          {
+            "routeid": "KJB993",
+            "routeno": "화순318"
+          },
+          {
+            "routeid": "KJB994",
+            "routeno": "화순318"
+          },
+          {
+            "routeid": "KJB995",
+            "routeno": "화순318"
+          },
+          {
+            "routeid": "KJB996",
+            "routeno": "화순318"
+          },
+          {
+            "routeid": "KJB997",
+            "routeno": "화순318"
+          },
+          {
+            "routeid": "KJB998",
+            "routeno": "화순318"
+          },
+          {
+            "routeid": "KJB999",
+            "routeno": "화순318-1"
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 382
+    }
+  }
+}
