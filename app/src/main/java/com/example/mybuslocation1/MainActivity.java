@@ -75,11 +75,13 @@ public class MainActivity extends AppCompatActivity {
                 googleMap.moveCamera(cameraUpdate);
 
                 map = googleMap;
+                //Log.d("TAG", "DBG2");
             }
         });
 
 
         try {
+            //Log.d("TAG", "DBG1");
             InputStream is = getAssets().open("busList.txt");
             int size = is.available();
             byte[] buffer = new byte[size];
@@ -110,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
             adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
             spinner.setAdapter(adapter);
             spinner.setSelection(0, false);
-
+            //Log.d("TAG", "DBG3");
             spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
                 @Override
                 public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
@@ -130,6 +132,7 @@ public class MainActivity extends AppCompatActivity {
                                     }
 
                                 }
+                                //Log.d("TAG", "DBG5");
                                 String routeid = item.getString("routeid");
                                 BusID = routeid;
                                 textView.setText(BusID);
@@ -200,14 +203,14 @@ public class MainActivity extends AppCompatActivity {
     public String generateURL(String BusID) {
         try {
             StringBuilder urlBuilder = new StringBuilder("http://apis.data.go.kr/1613000/BusLcInfoInqireService/getRouteAcctoBusLcList");
-            urlBuilder.append("?" + URLEncoder.encode("serviceKey", "UTF-8") + "=cAXk80%2BPqgzUG0x24Z9Wt4iUdB03NpSnjLnji9YiSonMZNhbthkocv9s1YxTuWSwLzbOQKdVlQha9%2FYIAfzR7w%3D%3D");
+            urlBuilder.append("?" + URLEncoder.encode("serviceKey", "UTF-8") + "*******"); // * 대신 api 키 입력
             urlBuilder.append("&" + URLEncoder.encode("pageNo", "UTF-8") + "=" + URLEncoder.encode("1", "UTF-8"));
             urlBuilder.append("&" + URLEncoder.encode("numOfRows", "UTF-8") + "=" + URLEncoder.encode("50", "UTF-8"));
             urlBuilder.append("&" + URLEncoder.encode("_type", "UTF-8") + "=" + URLEncoder.encode("json", "UTF-8"));
             urlBuilder.append("&" + URLEncoder.encode("cityCode", "UTF-8") + "=" + URLEncoder.encode("24", "UTF-8"));
             urlBuilder.append("&" + URLEncoder.encode("routeId", "UTF-8") + "=" + URLEncoder.encode(BusID, "UTF-8")); //여기 버그있음!!!! BusID에 값이 지정되지 않음. static 변수의 특성으로 보임.
             Log.d("TAG", "urlBuilder : "+urlBuilder);
-
+            Log.d("TAG", "generateURL 실행");
             return urlBuilder.toString();
         } catch (Exception e) {
             e.printStackTrace();
@@ -221,8 +224,9 @@ public class MainActivity extends AppCompatActivity {
 
     public void busInfo(String BusID) {
         try {
+            //Log.d("TAG", "TESTSTSTSTS");
             StringBuilder urlBuilder = new StringBuilder("https://apis.data.go.kr/1613000/BusLcInfoInqireService/getRouteAcctoBusLcList");
-            urlBuilder.append("?" + URLEncoder.encode("serviceKey", "UTF-8") + "********");     // * 대신 api 키 입력
+            //urlBuilder.append("?" + URLEncoder.encode("serviceKey", "UTF-8") + "********");     // * 대신 api 키 입력
             urlBuilder.append("&" + URLEncoder.encode("pageNo", "UTF-8") + "=" + URLEncoder.encode("1", "UTF-8"));
             urlBuilder.append("&" + URLEncoder.encode("numOfRows", "UTF-8") + "=" + URLEncoder.encode("50", "UTF-8"));
             urlBuilder.append("&" + URLEncoder.encode("_type", "UTF-8") + "=" + URLEncoder.encode("json", "UTF-8"));
